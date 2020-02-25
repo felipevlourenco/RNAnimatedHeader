@@ -17,7 +17,7 @@
 // export default App
 
 import React, { Component } from 'react'
-import { Animated, Image, ScrollView, StyleSheet, Text, View } from 'react-native'
+import { Animated, ScrollView, StyleSheet, Text, View } from 'react-native'
 
 const HEADER_MAX_HEIGHT = 200
 const HEADER_MIN_HEIGHT = 60
